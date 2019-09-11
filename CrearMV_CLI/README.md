@@ -23,4 +23,5 @@ Como tip, te cuento que puedes escribir los parámetros de dos maneras posibles,
 
 -g -n
 ```
-Ahora la pregunta que nos queda es
+Ahora la pregunta que nos queda es: ¿Que parámetro debería cambiar para poder crear ahora una máquina virtual con Windows? Deja en la sección de comentarios de la clase lo que deberías hacer o el comando que utilizarías para este escenario.
+

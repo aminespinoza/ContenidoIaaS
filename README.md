@@ -8,7 +8,7 @@
 
 Recuerda que estamos en una comunidad así que todo nivel de aportación es muy bienvenido.
 
-### Ejercicios de bots
+### Ejercicios del curso de IaaS
 
 |Clase|Descripción|Enlace|
 | --------- | -------------------- | ------ |
