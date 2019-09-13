@@ -51,7 +51,7 @@ Ve ahora por el conjunto de disponibilidad.
 ```b
 az vm availability-set create --resource-group myResourceGroupLoadBalancer --name myAvailabilitySet
 ```
-Por último, en cuanto a configuración, la parte que más hemos visto, las Máquinas virtuales. Recuerda tener en tu misma ruta el archivo [cloud-init.txt]() para poder enviarlo a la MV, esto tiene una gran secuencia de errores así que recuerda tener mucho cuidado con esto.
+Por último, en cuanto a configuración, la parte que más hemos visto, las Máquinas virtuales. Recuerda tener en tu misma ruta el archivo [cloud-init.txt](https://github.com/aminespinoza/ContenidoIaaS/tree/master/AltaDisponibilidad/cloud-init.txt) para poder enviarlo a la MV, esto tiene una gran secuencia de errores así que recuerda tener mucho cuidado con esto.
 ```b
 for i in `seq 1 3`; do
     az vm create \
